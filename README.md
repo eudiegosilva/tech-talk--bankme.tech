@@ -1,11 +1,11 @@
-# Template NextTS — TypeScript, Stitches, Radix and Design Tokens
+# Tech Talk - Design System and Design Tokens - Bankme
 
-<img src="./public/assets/images/cover-template.png" />
+<img src="./public/assets/images/cover-project.png" />
 
 ---
 ## Summary
 
-  - [About this template](#about-this-template)
+  - [About this project](#about-this-project)
   - [Avaliale scripts](#avaliale-scripts)
     - [Other scripts available](#other-scripts-available)
   - [Main technologies used](#main-technologies-used)
@@ -16,9 +16,9 @@
   - [About me](#about-me)
       - [#followMyWork](#followmywork)
 
-## About this template
+## About this project
 
-This project is a template for NextJS with TypeScript projects. This template was built with `create-next-app`, `typescript`, `stitches`, `@radix-ui` and `storybook`.
+This project is a short example about Design Tokens implementation for ReactJS with TypeScript projects. This project was built with `create-next-app`, `typescript`, `stitches`, `@radix-ui` and `storybook`.
 
 ---
 
